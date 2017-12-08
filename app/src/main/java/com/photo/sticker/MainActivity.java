@@ -3,8 +3,6 @@ package com.photo.sticker;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import static com.photo.sticker.R;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
